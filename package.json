@@ -1,0 +1,25 @@
+{
+  "name": "random-url-redirector",
+  "version": "1.0.0",
+  "description": "A small script that well... Redirects people to random defined pages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "devStart": "nodemon ./src/app.ts",
+    "start": "tsc && node ./dist/src/app.js",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DSC-UTeM/Random-URL-Redirector.git"
+  },
+  "author": "KwongTN <tungnan5636@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DSC-UTeM/Random-URL-Redirector/issues"
+  },
+  "homepage": "https://github.com/DSC-UTeM/Random-URL-Redirector#readme",
+  "devDependencies": {
+    "@types/node": "^14.14.22"
+  }
+}

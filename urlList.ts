@@ -1,0 +1,16 @@
+export const urlList: Array<string> = [
+  "https://dsc.community.dev/events/details/developer-student-clubs-xiamen-university-malaysia-campus-presents-solution-challenge-2021-info-session-fireside-chat-with-leading-developers/#",
+  "https://dsc.community.dev/events/details/developer-student-clubs-universiti-teknologi-petronas-presents-solution-challenge-2021-info-session-fireside-chat-with-leading-developers/#",
+  "https://dsc.community.dev/events/details/developer-student-clubs-international-islamic-university-malaysia-presents-solution-challenge-2021-info-session-fireside-chat-with-leading-developers/#/",
+  "https://dsc.community.dev/events/details/developer-student-clubs-universiti-teknikal-malaysia-melaka-presents-solution-challenge-2021-info-session-fireside-chat-with-leading-developers/",
+  "https://dsc.community.dev/events/details/developer-student-clubs-universiti-utara-malaysia-presents-solution-challenge-2021-info-session-fireside-chat-with-leading-developers/#/",
+  "https://dsc.community.dev/events/details/developer-student-clubs-sunway-university-presents-solution-challenge-2021-info-session-fireside-chat-with-leading-developers/#/",
+  "https://dsc.community.dev/events/details/developer-student-clubs-uow-malaysia-kdu-penang-university-college-presents-solution-challenge-2021-info-session-fireside-chat-with-leading-developers-1/#/",
+  "https://dsc.community.dev/e/m529za/",
+  "https://dsc.community.dev/events/details/developer-student-clubs-asia-pacific-university-presents-solution-challenge-2021-info-session-fireside-chat-with-leading-developers/#/",
+  "https://dsc.community.dev/events/details/developer-student-clubs-universiti-teknologi-malaysia-presents-solution-challenge-2021-info-session-fireside-chat-with-leading-developers/#/",
+  "https://dsc.community.dev/events/details/developer-student-clubs-monash-university-malaysia-presents-solution-challenge-2021-info-session-fireside-chat-with-leading-developers/#/",
+  "https://dsc.community.dev/events/details/developer-student-clubs-tunku-abdul-rahman-university-college-presents-solution-challenge-2021-info-session-fireside-chat-with-leading-developers/#/",
+  "https://dsc.community.dev/events/details/developer-student-clubs-universiti-sains-malaysia-presents-solution-challenge-2021-info-session-fireside-chat-with-leading-developers/#/",
+  "https://dsc.community.dev/events/details/developer-student-clubs-universiti-kuala-lumpur-british-malaysian-institute-presents-solution-challenge-2021-info-session-fireside-chat-with-leading-developers/#/",
+];
